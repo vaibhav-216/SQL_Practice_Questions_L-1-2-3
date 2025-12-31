@@ -24,20 +24,20 @@ This repository is created to practice **SQL concepts from basic to advanced** a
   - GROUP BY
   - DISTINCT
 
-## 🎯 Purpose of This Repository
+#Purpose of This Repository
 - Practice SQL queries regularly
 - Improve problem-solving skills
 - Prepare for SQL interviews
 - Build a public SQL portfolio on GitHub
 
-## 🚀 Upcoming Topics
+# Upcoming Topics
 -  LIMIT
 - JOINS (INNER, LEFT, RIGHT, FULL, SELF, CROSS) + Aggregations
 - AGGREGATIONS + GROUPING
 - WINDOW FUNCTIONS, SUBQUERIES
 
-## 🛠 Tools Used
+# Tools Used
 - PostgreSQL
 - GitHub
 
-📌 *This repository will be updated regularly as I continue learning SQL.*
+ *This repository will be updated regularly as I continue learning SQL.*
