@@ -10,6 +10,9 @@ This repository is created to practice **SQL concepts from basic to advanced** a
 - WHERE
 - GROUP BY
 - DISTINCT
+- SUBQUERIES
+- WINDO FUNCTION
+- CTES
 
 ## 📂 Repository Structure
 
@@ -17,24 +20,12 @@ This repository is created to practice **SQL concepts from basic to advanced** a
   A folder that contains **topic-wise SQL questions and solutions**.  
   New lectures and practice files will be added here.
 
-- `SQL_Practice_L-1,2,3.sql`  
-  A single SQL **file** that contains combined practice queries for:
-  - SELECT
-  - WHERE
-  - GROUP BY
-  - DISTINCT
-
 #Purpose of This Repository
 - Practice SQL queries regularly
 - Improve problem-solving skills
 - Prepare for SQL interviews
 - Build a public SQL portfolio on GitHub
 
-# Upcoming Topics
--  LIMIT
-- JOINS (INNER, LEFT, RIGHT, FULL, SELF, CROSS) + Aggregations
-- AGGREGATIONS + GROUPING
-- WINDOW FUNCTIONS, SUBQUERIES
 
 # Tools Used
 - PostgreSQL
